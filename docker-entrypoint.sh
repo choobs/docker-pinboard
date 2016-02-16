@@ -43,11 +43,8 @@ EOF
     # install the app
     composer install --prefer-source --no-interaction
     
-    # configure the app
+    # deploy the database tables
     ./console migrations:migrate --no-interaction
-
-    # link the symfony console to bin
-    ln -s /www/console /bin/console
     
   fi
 fi
