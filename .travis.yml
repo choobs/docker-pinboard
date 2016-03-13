@@ -2,7 +2,7 @@ language: bash
 services: docker
 
 script:
-  - docker build -t "$image" .
+  - docker build -t "choobs/pinboard" .
 
 after_script:
   - docker images
