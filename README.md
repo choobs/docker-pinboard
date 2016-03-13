@@ -4,7 +4,7 @@
 
 - [`latest` (pinba/Dockerfile)](https://github.com/choobs/docker-pinboard/blob/master/Dockerfile)
 
-[![](https://badge.imagelayers.io/choobs/pinboard:pinba.svg)](https://imagelayers.io/?images=choobs/pinboard:latest 'Get your own badge on imagelayers.io') [![Docker Stars](https://img.shields.io/docker/stars/choobs/pinboard.svg?style=flat-square)](https://hub.docker.com/r/choobs/pinboard/) [![Docker Pulls](https://img.shields.io/docker/pulls/choobs/pinboard.svg?style=flat-square)](https://hub.docker.com/r/choobs/pinboard/)
+[![](https://badge.imagelayers.io/choobs/pinboard:pinba.svg)](https://imagelayers.io/?images=choobs/pinboard:latest 'Get your own badge on imagelayers.io') [![Docker Stars](https://img.shields.io/docker/stars/choobs/pinboard.svg?style=flat-square)](https://hub.docker.com/r/choobs/pinboard/) [![Docker Pulls](https://img.shields.io/docker/pulls/choobs/pinboard.svg?style=flat-square)](https://hub.docker.com/r/choobs/pinboard/) [![Build Status](https://travis-ci.org/choobs/docker-pinboard.svg?branch=master)](https://travis-ci.org/choobs/docker-pinboard)
 
 ## Information ##
 
